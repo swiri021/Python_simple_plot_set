@@ -1,4 +1,4 @@
-<h3>Simple Plots for Python (3 Venn diagram, Volcano plot, Rank sorted line-plot</h3>
+<h3>Simple Plots for Python (3 Venn diagram, Volcano plot, Rank sorted line-plot)</h3>
 <p>This library includes 3 simple plots function and easy-to-use, and data should be formed by Pandas. For the detail, please see the main.py code.</p>
 <p>If you find any bugs or troubles, let me know(Contact : swiri021@gmail.com)</p>
 <p>Required library : Pandas, Numpy, matplotlib, seaborn, matplotlib_venn</p>
